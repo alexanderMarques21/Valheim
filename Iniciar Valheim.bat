@@ -5,7 +5,7 @@ cls
 pause
 
 
-cd B:\Programas\Valheim\Valheim\
+cd C:\Valheim\
 
 valheim.exe
 
