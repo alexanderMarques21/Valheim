@@ -16,4 +16,5 @@ cd %HOME%/AppData\LocalLow\IronGate\Valheim
 git commit -am "Salvo novo progresso"
 git push origin master
 
-pause
+cls
+exit
